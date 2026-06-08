@@ -1,5 +1,5 @@
 # kiran-store-data-analysis
-kiran Store Sales Analysis Dashboard (2025): Developed an interactive Excel dashboard to analyze sales, orders, customer demographics, states, channels, and product categories. Used Pivot Tables, Charts, Slicers, and data cleaning techniques to generate business insights, identify top-performing segments, and support data-driven decision-making. 
+kiran Store Sales Analysis Dashboard (2025): Developed an interactive Excel dashboard to analyze sales, orders, customer demographics, states, channels, and product category. 
 # 🛒 Kiran Store Sales Analysis Dashboard (2025)
 
 An interactive Excel-based data analysis project designed to evaluate sales performance, understand customer demographics, and identify high-growth channels for **Kiran Store**. This project transforms raw transactional data into actionable business insights to support data-driven decision-making.
